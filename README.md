@@ -1,4 +1,4 @@
-## Moaz
+Moaz
 
 I love open source, live in the terminal, and think agentic workflows are the future.
 
