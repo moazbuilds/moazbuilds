@@ -1,5 +1,7 @@
 Hi, I'm Moaz 👋
 
+I architect and build AI agent systems - multi-agent orchestration, Claude Code workflows, and production-grade automation that ships real software faster.
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)
