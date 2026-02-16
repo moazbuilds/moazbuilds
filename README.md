@@ -7,3 +7,12 @@ Hi, I'm Moaz 👋
 ![OpenAI Codex](https://img.shields.io/badge/Codex-412991?logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-4EAA25?logo=gnubash&logoColor=white)
+
+## Current Projects
+
+- ⚡️ [**CodeMachine**](https://github.com/moazbuilds/CodeMachine-CLI) - Orchestrates AI coding agents into repeatable, long-running workflows.
+- 🐾 [**ClaudeClaw**](https://github.com/moazbuilds/claudeclaw) - A lightweight OpenClaw version built into your Claude Code.
+
+### Workflows
+
+- 🔍 [**Reframe**](https://github.com/moazbuilds/reframe) - A structured, Nobel Prize-based problem-solving workflow that helps you find the real problem before solving it.
