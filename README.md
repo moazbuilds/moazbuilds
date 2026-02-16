@@ -1,4 +1,4 @@
-Hi, I'm Moaz 👋
+# Hi, I'm Moaz 👋
 
 I architect and build AI agent systems - multi-agent orchestration, Claude Code workflows, and production-grade automation that ships real software faster.
 
