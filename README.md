@@ -1,1 +1,9 @@
 Hi, I'm Moaz 👋
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/Codex-412991?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-4EAA25?logo=gnubash&logoColor=white)
