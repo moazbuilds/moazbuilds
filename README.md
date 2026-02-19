@@ -15,7 +15,7 @@ I architect and build AI agent systems - multi-agent orchestration, workflows, a
 - ⚡️ [**CodeMachine**](https://github.com/moazbuilds/CodeMachine-CLI) - Orchestrates AI coding agents into repeatable, long-running workflows.
 - 🐾 [**ClaudeClaw**](https://github.com/moazbuilds/claudeclaw) - A lightweight OpenClaw version built into your Claude Code.
 
-### Workflows
+### Workflows/Skills
 
 - ✍️ [**Pragma**](https://github.com/moazbuilds/pragma-post-writer) - Pragma is a modular AI skill and workflow that challenges your thinking, sharpens your angle, and helps you write publish-ready content for social media, blogs, and forums.
 - 🔍 [**Reframe**](https://github.com/moazbuilds/reframe) - A structured, Nobel Prize-based problem-solving workflow that helps you find the real problem before solving it.
