@@ -17,4 +17,5 @@ I architect and build AI agent systems - multi-agent orchestration, workflows, a
 
 ### Workflows
 
+- ✍️ [**Pragma**](https://github.com/moazbuilds/pragma-post-writer) - Pragma is a modular AI skill and workflow that challenges your thinking, sharpens your angle, and helps you write publish-ready content for social media, blogs, and forums.
 - 🔍 [**Reframe**](https://github.com/moazbuilds/reframe) - A structured, Nobel Prize-based problem-solving workflow that helps you find the real problem before solving it.
