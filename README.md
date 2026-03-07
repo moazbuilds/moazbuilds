@@ -4,17 +4,22 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Hi, I'm Moaz</strong>
   <br>
   <strong>Follow me and stick around, I'm always building something new.</strong>
+  <br><br>
+  <a href="https://www.linkedin.com/in/moazmali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/moazbuilds"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X"></a>
 </p>
 
 High-ownership engineer. Builder across domains. I architect and build AI agent systems - multi-agent orchestration, workflows, and production-grade automation that ships real software faster.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/Codex-412991?logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-4EAA25?logo=gnubash&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white" alt="Bun">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Codex-412991?logo=openai&logoColor=white" alt="OpenAI Codex">
+  <img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/CLI-4EAA25?logo=gnubash&logoColor=white" alt="CLI">
+</p>
 
 ## Current Projects
 
