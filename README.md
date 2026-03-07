@@ -1,6 +1,10 @@
-# Hi, I'm Moaz 👋
+<p align="center">
+  <img src="wave.gif" width="150">
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Hi, I'm Moaz</strong>
+</p>
 
-I architect and build AI agent systems - multi-agent orchestration, workflows, and production-grade automation that ships real software faster.
+High-ownership engineer. I architect and build AI agent systems - multi-agent orchestration, workflows, and production-grade automation that ships real software faster.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
