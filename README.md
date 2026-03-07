@@ -19,8 +19,6 @@ High-ownership engineer. I architect and build AI agent systems - multi-agent or
 ## Current Projects
 
 - [🚀 New] [👀 Stealth] **ProClaw** - Enterprise-grade Claws: team management, guided setup wizards, and live dashboards.
-<br>
-
 - ⚡️ [**CodeMachine**](https://github.com/moazbuilds/CodeMachine-CLI) - Orchestrates AI coding agents into repeatable, long-running workflows.
 - 🐾 [**ClaudeClaw**](https://github.com/moazbuilds/claudeclaw) - A lightweight OpenClaw version built into your Claude Code.
 
