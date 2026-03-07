@@ -2,6 +2,8 @@
   <img src="wave.gif" width="150">
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Hi, I'm Moaz</strong>
+  <br>
+  <strong>Follow me and stick around, I'm always building something new.</strong>
 </p>
 
 High-ownership engineer. I architect and build AI agent systems - multi-agent orchestration, workflows, and production-grade automation that ships real software faster.
@@ -15,6 +17,9 @@ High-ownership engineer. I architect and build AI agent systems - multi-agent or
 ![CLI](https://img.shields.io/badge/CLI-4EAA25?logo=gnubash&logoColor=white)
 
 ## Current Projects
+
+- [🚀 New] [👀 Stealth] **ProClaw** - Enterprise-grade Claws: team management, guided setup wizards, and live dashboards.
+<br>
 
 - ⚡️ [**CodeMachine**](https://github.com/moazbuilds/CodeMachine-CLI) - Orchestrates AI coding agents into repeatable, long-running workflows.
 - 🐾 [**ClaudeClaw**](https://github.com/moazbuilds/claudeclaw) - A lightweight OpenClaw version built into your Claude Code.
