@@ -6,7 +6,7 @@
   <strong>Follow me and stick around, I'm always building something new.</strong>
 </p>
 
-High-ownership engineer. I architect and build AI agent systems - multi-agent orchestration, workflows, and production-grade automation that ships real software faster.
+High-ownership engineer. Builder across domains. I architect and build AI agent systems - multi-agent orchestration, workflows, and production-grade automation that ships real software faster.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
