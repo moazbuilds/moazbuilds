@@ -1,11 +1,5 @@
 <p align="center">
-<strong>Hi, I'm Moaz</strong>
-  <br>
   <strong>Stick around, I'm always building something new.</strong>
-  <br><br>
-  <a href="https://www.linkedin.com/in/moazmali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/moazbuilds"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X"></a>
-  <a href="mailto:mo3azmuham@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 High-ownership engineer. Builder across domains. I architect and build AI agent systems - multi-agent orchestration, workflows, and production-grade automation that ships real software faster.
