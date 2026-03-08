@@ -3,7 +3,7 @@
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Hi, I'm Moaz</strong>
   <br>
-  <strong>Follow me and stick around, I'm always building something new.</strong>
+  <strong>Stick around, I'm always building something new.</strong>
   <br><br>
   <a href="https://www.linkedin.com/in/moazmali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/moazbuilds"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X"></a>
