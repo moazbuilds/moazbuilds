@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="wave.gif" width="150">
-  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Hi, I'm Moaz</strong>
+<strong>Hi, I'm Moaz</strong>
   <br>
   <strong>Stick around, I'm always building something new.</strong>
   <br><br>
