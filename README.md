@@ -16,8 +16,8 @@ High-ownership engineer. Builder across domains. I architect and build AI agent 
 
 ## Current Projects
 
-- 🚀 [New - Stealth] **ProClaw** - Enterprise-grade Claws: team management, guided setup wizards, and live dashboards.
-  - [New - Stealth] **Stealth**
+- 🚀 [New] **Stealth** - A very cool Claude Code project.
+- 🚀 [New - Unreleased] **ProClaw** - Enterprise-grade Claws: team management, guided setup wizards, and live dashboards.
 - ⚡️ [**CodeMachine**](https://github.com/moazbuilds/CodeMachine-CLI) - Orchestrates AI coding agents into repeatable, long-running workflows.
 - 🐾 [**ClaudeClaw**](https://github.com/moazbuilds/claudeclaw) - A lightweight OpenClaw version built into your Claude Code.
 
